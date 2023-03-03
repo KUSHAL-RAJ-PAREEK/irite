@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "989588423622",
+    "project_id": "irite-1debf",
+    "storage_bucket": "irite-1debf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989588423622:android:3648dcb624e10e8d0ce8c7",
+        "android_client_info": {
+          "package_name": "com.example.irite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989588423622-s90gdj110lq7cq0ahikb3dlak4mo47ad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa2eVBD8XEVXXqkcELt775oirdRBn_jL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "989588423622-s90gdj110lq7cq0ahikb3dlak4mo47ad.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
